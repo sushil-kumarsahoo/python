@@ -1,2 +1,1 @@
-for line in open('iteration.py'):
-     print(line, end='')
+print(i.__next__())
