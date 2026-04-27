@@ -1,1 +1,2 @@
-print(next(it)) 
+for line in open('iteration.py'):
+     print(line, end='')
